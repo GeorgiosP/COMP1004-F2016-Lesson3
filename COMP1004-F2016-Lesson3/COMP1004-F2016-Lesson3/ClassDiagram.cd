@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="COMP1004_F2016_Lesson3.StartForm">
+    <Position X="0.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAQAACAAAAiAAAAAAACAAAAQAAAAAA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1004_F2016_Lesson3.Character">
+    <Position X="5.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="COMP1004_F2016_Lesson3.Abilities">
+    <Position X="10" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAEAAAAAAABBAAAAAAAAACAAAACA=</HashCode>
+      <FileName>Abilities.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
